@@ -29,11 +29,11 @@
   ### My statistic
 
 <p align="center">
-  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=ytb FARUQOFC&theme=tokyonight&show_icons=true" /></a>
+  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=faruq51&theme=tokyonight&show_icons=true" /></a>
 </p>  
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ytb FARUQOFC&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=faruq51&label=VIEWS&style=flat-square&color=blue" />
 </p>
     
 ------
