@@ -1,11 +1,11 @@
 <p>Connect with me 👋</p>
-  <a href="https://instagram.com/faruqofc" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  <a href="https://www.tiktok.com/@rajamods" target="_blank">
+    <img src="https://img.shields.io/badge/tiktok-%23E4405F.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=071A2C" alt="Tiktok"/>
   </a>
-  <a href="https://youtube.com/channel/UChzA8qbuMQJEWFuBwZJvvHw" target="_blank">
+  <a href="https://youtube.com/channel/UCxVf6aARpoMp8w6vh9MKARQ" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
-<a href="https://wa.me/6285807264974" target="_blank">
+<a href="https://wa.me/6289505054287" target="_blank">
     <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="WhatsApp"/>
   </a>
 
@@ -29,11 +29,11 @@
   ### My statistic
 
 <p align="center">
-  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=faruq51&theme=tokyonight&show_icons=true" /></a>
+  <a href="panteg"><img src="https://github-readme-stats.vercel.app/api?username=Tommylegen&theme=tokyonight&show_icons=true" /></a>
 </p>  
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faruq51&label=VIEWS&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Tommylegen&label=VIEWS&style=flat-square&color=blue" />
 </p>
     
 ------
