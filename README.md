@@ -3,7 +3,7 @@
 </p>
 
 ### Hi👋, I.m Tommy legends (Rajadev)
-I am a UI/UX designer and Front End developer, from Bogor, West Java, Indonesian, and I am 16 years old, thanks.
+I am a UI/UX designer and Front End developer, from Aceh, Banda Aceh, Indonesian, and I am 16 years old, thanks.
 
 [![Youtube](https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=&logoColor=black)](https://www.youtube.com/@HaikalDev)
 [![Rest Apis](https://img.shields.io/badge/Rest%20Api's-blue?style=for-the-badge&logo=&logoColor=black)](https://xdev-api.koyeb.app)
