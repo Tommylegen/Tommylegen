@@ -1,4 +1,4 @@
-### Hi there, I'm X - Raja IDðŸ‘‹
+### Hi there, I'm X - Raja ID👋
 
 
 #
