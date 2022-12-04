@@ -1,19 +1,73 @@
+### Hi there, I'm X - Raja IDðŸ‘‹
+
+
+#
+<br />
+
+> Motivasi
+```js
+ ~ Janganlah pernah menyerah 
+   ketika kamu masih mampu 
+   berusaha lagi. Tidak ada kata 
+   berakhir sampai kamu berhenti mencoba
+
+```
+____
+> About Me
+
+```js
+async function tommy() {
+  return new Promise(async(resolve, reject) => {
+    try {
+      let data = {
+        name: "Raja",
+        bio: {
+          fullName: "X - Raja ID Development",
+          hobby: "music",
+          age: "16",
+          region: "Indonesia"
+        },
+        social: {
+          youtube: "https://youtube.com/@HaikalDev",
+          whatsapp: "https://wa.me/6289505054287"
+        }
+      }
+      resolve(data)
+    } catch (err) {reject(err)}
+  })
+}
+console.log(tommy())
+```
+____
+<details>
+<summary>Information</summary>
+
+> Languages 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tommylegen&show_icons=true&locale=en&layout=compact" alt="Tommylegen" /></p>
+
+> Tools
+
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Tommylegen" width="200" height="200"/>
+<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-VS_Code-black?style=flat-square&logo=visual-studio-code" alt="Visual Studio Code" width="40" height="40"/></a>
 </p>
 
-### Hi👋, I.m Tommy legends (Rajadev)
-I am a UI/UX designer and Front End developer, from Aceh, Banda Aceh, Indonesian, and I am 16 years old, thanks.
+> Skills
 
-[![Youtube](https://img.shields.io/badge/Youtube-blue?style=for-the-badge&logo=&logoColor=black)](https://www.youtube.com/@HaikalDev)
-[![Rest Apis](https://img.shields.io/badge/Rest%20Api's-blue?style=for-the-badge&logo=&logoColor=black)](https://xdev-api.koyeb.app)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=&logoColor=black)](mailto:rh814898534@gmail.com)
+<p align="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+</p> 
 
-### My GitHub Stats
-![](https://komarev.com/ghpvc/?username=Tommylegen&color=000000)
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tommylegen&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommylegen&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+> Github Statistics
 
-__Thanks for coming to my little place on GitHub__ 😁
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tommylegen&" alt="Tommylegen" /></p>
+</details>
+
+____
+
+
+## Thanks All
