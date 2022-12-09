@@ -25,7 +25,7 @@ async function tommy() {
           fullName: "X - Raja ID Development",
           hobby: "music",
           region: "Indonesia",
-          birthday: "December - 12"
+          birthday: "Dec - 12"
         },
         social: {
           youtube: "https://youtube.com/@HaikalDev",
