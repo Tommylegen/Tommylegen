@@ -24,8 +24,8 @@ async function tommy() {
         bio: {
           fullName: "X - Raja ID Development",
           hobby: "music",
-          age: "16",
-          region: "Indonesia"
+          region: "Indonesia",
+          birthday: "December - 12"
         },
         social: {
           youtube: "https://youtube.com/@HaikalDev",
