@@ -1,4 +1,4 @@
-### Hi there, I'm X - Raja ID👋
+### Hi there, I'm X - Raja DEV👋
 
 
 #
@@ -22,14 +22,14 @@ async function tommy() {
       let data = {
         name: "Raja",
         bio: {
-          fullName: "X - Raja ID Development",
+          fullName: "X - Raja XD Development",
           hobby: "music",
           region: "Indonesia",
           birthday: "Dec - 12"
         },
         social: {
-          youtube: "https://youtube.com/@HaikalDev",
-          whatsapp: "https://wa.me/6289505054287"
+          youtube: "https://youtube.com/@rajaxd",
+          whatsapp: "https://wa.me/6283853558913"
         }
       }
       resolve(data)
