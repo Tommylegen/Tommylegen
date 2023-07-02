@@ -7,8 +7,8 @@
 > Motivasi
 ```js
  ~ Don't care what other people say, If
--  you're not in charge then who is?
--  it's your life.
+  you're not in charge then who is?
+  it's your life.
 
 ```
 ____
