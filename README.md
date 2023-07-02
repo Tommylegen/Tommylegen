@@ -6,12 +6,7 @@
 
 > Motivasi
 ```js
- ~ Janganlah pernah menyerah 
-   ketika kamu masih mampu 
-   berusaha lagi. Tidak ada kata 
-   berakhir sampai kamu berhenti mencoba
-
-```
+ ~ Don't care what other people say, If you're not in charge then who is? it's your life. ```
 ____
 > About Me
 
