@@ -6,7 +6,11 @@
 
 > Motivasi
 ```js
- ~ Don't care what other people say, If you're not in charge then who is? it's your life. ```
+ ~ Don't care what other people say, If
+-  you're not in charge then who is?
+-  it's your life.
+
+```
 ____
 > About Me
 
