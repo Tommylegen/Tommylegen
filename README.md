@@ -24,7 +24,7 @@ async function tommy() {
         bio: {
           fullName: "Haikal Development",
           hobby: "music:",
-          favmusic: "night change",
+          fav: "night change",
           region: "Indonesia",
           birthday: "Dec - 12"
         },
