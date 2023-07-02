@@ -1,4 +1,4 @@
-### Hi there, I'm X - Raja DEV👋
+### Hi there, I'm Kal - DEV👋
 
 
 #
@@ -20,10 +20,11 @@ async function tommy() {
   return new Promise(async(resolve, reject) => {
     try {
       let data = {
-        name: "Raja",
+        name: "Kal",
         bio: {
-          fullName: "X - Raja XD Development",
-          hobby: "music",
+          fullName: "Haikal Development",
+          hobby: "music:",
+          favmusic: "night change"
           region: "Indonesia",
           birthday: "Dec - 12"
         },
