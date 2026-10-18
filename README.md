@@ -1,8 +1,8 @@
 <h1 align="center">Tommylegen</h1>
 
 <p align="center">
-  <a href="https://github.com/Tommylegen?tab=followers"><img src="https://img.shields.io/github/followers/Tommylegen?label=followers&style=flat&color=0e75b6" alt="followers"></a>
-  <a href="https://github.com/Tommylegen?tab=repositories"><img src="https://img.shields.io/github/stars/Tommylegen?affiliations=OWNER&style=flat&color=0e75b6&label=stars" alt="stars"></a>
+  <a href="https://github.com/Tommylegen?tab=followers"><img src="https://img.shields.io/github/followers/Tommylegen?label=followers&style=flat&color=0e75b6&cacheSeconds=86400" alt="followers"></a>
+  <a href="https://github.com/Tommylegen?tab=repositories"><img src="https://img.shields.io/github/stars/Tommylegen?affiliations=OWNER&style=flat&color=0e75b6&label=stars&cacheSeconds=86400" alt="stars"></a>
   <a href="https://hits.sh/github.com/Tommylegen/"><img src="https://hits.sh/github.com/Tommylegen.svg?style=flat&label=visitors&color=0e75b6" alt="visitors"></a>
 </p>
 
