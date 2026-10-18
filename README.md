@@ -1,40 +1,30 @@
 <h1 align="center">Tommylegen</h1>
 
-**v1 komarev**
-<img src="https://komarev.com/ghpvc/?username=Tommylegen&label=views&color=0e75b6&style=flat" alt="v1">
+<p align="center">
+  <a href="https://github.com/Tommylegen?tab=followers"><img src="https://img.shields.io/github/followers/Tommylegen?label=followers&style=flat&color=0e75b6" alt="followers"></a>
+  <a href="https://github.com/Tommylegen?tab=repositories"><img src="https://img.shields.io/github/stars/Tommylegen?affiliations=OWNER&style=flat&color=0e75b6&label=stars" alt="stars"></a>
+  <a href="https://hits.sh/github.com/Tommylegen/"><img src="https://hits.sh/github.com/Tommylegen.svg?style=flat&label=visitors&color=0e75b6" alt="visitors"></a>
+</p>
 
-**v2 laobi**
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Tommylegen.Tommylegen&left_text=views" alt="v2">
+<p align="center">
+  <a href="https://github.com/Tommylegen/safetystore"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=safetystore&hide_border=true" alt="safetystore"></a>
+  <a href="https://github.com/Tommylegen/Tommylegen.github.io"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=Tommylegen.github.io&hide_border=true" alt="github.io"></a>
+</p>
 
-**v3 hits.sh**
-<img src="https://hits.sh/github.com/Tommylegen.svg?style=flat&label=visitors" alt="v3">
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=Tommylegen&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" alt="stats">
+  <img width="420" src="https://streak-stats.demolab.com?user=Tommylegen&hide_border=true" alt="streak">
+</p>
 
-**v4 visitorbadge.io**
-<img src="https://api.visitorbadge.io/api/visitors?path=Tommylegen&label=visitors&countColor=%230e75b6" alt="v4">
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommylegen&layout=compact&hide_title=true&hide_border=true" alt="top languages">
+  <img width="420" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tommylegen&theme=default" alt="repos per language">
+</p>
 
-**v5 glitch**
-<img src="https://profile-counter.glitch.me/Tommylegen/count.svg" alt="v5">
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/Tommylegen" alt="contribution history">
+</p>
 
-**h1 ghchart**
-<img src="https://ghchart.rshah.org/Tommylegen" alt="h1">
-
-**h2 summary profile-details**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tommylegen&theme=default" alt="h2">
-
-**h3 summary repos-per-language**
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tommylegen&theme=default" alt="h3">
-
-**r1 pin safetystore**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=safetystore&hide_border=true" alt="r1">
-
-**r2 pin github.io**
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=Tommylegen.github.io&hide_border=true" alt="r2">
-
-**s1 streak**
-<img src="https://streak-stats.demolab.com?user=Tommylegen&hide_border=true" alt="s1">
-
-**s2 trophy**
-<img src="https://github-profile-trophy.vercel.app/?username=Tommylegen&no-frame=true&row=1&column=6" alt="s2">
-
-**s4 skillicons**
-<img src="https://skillicons.dev/icons?i=js,py,node,cloudflare,git,vscode&theme=light" alt="s4">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,node,cloudflare,git,vscode&theme=light" alt="stack">
+</p>
