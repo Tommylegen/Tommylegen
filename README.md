@@ -1,37 +1,40 @@
-<h1>Tommylegen</h1>
+<h1 align="center">Tommylegen</h1>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Tommylegen&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Tommylegen)
-![Followers](https://img.shields.io/github/followers/Tommylegen?label=Followers&style=flat)
-[![Safety Store](https://img.shields.io/badge/Safety%20Store-safetystore.pages.dev-0e75b6?style=flat)](https://safetystore.pages.dev)
+**v1 komarev**
+<img src="https://komarev.com/ghpvc/?username=Tommylegen&label=views&color=0e75b6&style=flat" alt="v1">
 
-**About**
+**v2 laobi**
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tommylegen.Tommylegen&left_text=views" alt="v2">
 
-Web and bot developer from Indonesia. I build small tools that do one job well. Most of my time now
-goes into Safety Store, a toolkit for short links, file uploads, signed download links, a web proxy
-and markdown notes.
+**v3 hits.sh**
+<img src="https://hits.sh/github.com/Tommylegen.svg?style=flat&label=visitors" alt="v3">
 
-**Projects**
+**v4 visitorbadge.io**
+<img src="https://api.visitorbadge.io/api/visitors?path=Tommylegen&label=visitors&countColor=%230e75b6" alt="v4">
 
-| Project | What it is |
-| --- | --- |
-| [Safety Store](https://github.com/Tommylegen/safetystore) | Short links, uploads, signed links, proxy and notes. Live at [safetystore.pages.dev](https://safetystore.pages.dev). |
+**v5 glitch**
+<img src="https://profile-counter.glitch.me/Tommylegen/count.svg" alt="v5">
 
-**On GitHub**
+**h1 ghchart**
+<img src="https://ghchart.rshah.org/Tommylegen" alt="h1">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Tommylegen&show_icons=true&hide_title=true&hide_border=true) | ![Streak](https://streak-stats.demolab.com?user=Tommylegen&hide_border=true) |
-| --- | --- |
+**h2 summary profile-details**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tommylegen&theme=default" alt="h2">
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tommylegen&layout=compact&hide_title=true&hide_border=true)
+**h3 summary repos-per-language**
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tommylegen&theme=default" alt="h3">
 
-**Visitor and activity history**
+**r1 pin safetystore**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=safetystore&hide_border=true" alt="r1">
 
-![Profile views](https://komarev.com/ghpvc/?username=Tommylegen&label=visitors&color=0e75b6&style=for-the-badge)
+**r2 pin github.io**
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=Tommylegen.github.io&hide_border=true" alt="r2">
 
-![Contribution history](https://ghchart.rshah.org/Tommylegen)
+**s1 streak**
+<img src="https://streak-stats.demolab.com?user=Tommylegen&hide_border=true" alt="s1">
 
-**Links**
+**s2 trophy**
+<img src="https://github-profile-trophy.vercel.app/?username=Tommylegen&no-frame=true&row=1&column=6" alt="s2">
 
-| | |
-| --- | --- |
-| GitHub | [@Tommylegen](https://github.com/Tommylegen) |
-| Safety Store | [safetystore.pages.dev](https://safetystore.pages.dev) |
+**s4 skillicons**
+<img src="https://skillicons.dev/icons?i=js,py,node,cloudflare,git,vscode&theme=light" alt="s4">
