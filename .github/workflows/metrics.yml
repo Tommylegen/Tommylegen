@@ -1,10 +1,12 @@
 name: Metrics
+
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
   push:
     branches: ["main"]
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
@@ -15,9 +17,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.svg
-          base: ""
-          plugin_traffic: yes
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_limit: 5
+          base: "header, activity, community, repositories, metadata"
           config_timezone: Asia/Jakarta
