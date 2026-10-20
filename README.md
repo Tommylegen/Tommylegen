@@ -1,7 +1,7 @@
 <h1 align="center">Tommylegen</h1>
 
 <p align="center">
-  <img src="typing.svg" alt="sometimes happy, sometimes tired, quiet mornings, still figuring it out">
+  <img src="typing.svg?v=2" alt="sometimes happy, sometimes tired, quiet mornings, still figuring it out">
 </p>
 
 <p align="center">
