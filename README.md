@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/Tommylegen" alt="contribution history">
+  <img width="100%" src="profile-3d-contrib/profile-night-green.svg" alt="contribution history">
 </p>
 
 <p align="center">
