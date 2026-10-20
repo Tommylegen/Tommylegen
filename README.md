@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tommylegen/safetystore"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=safetystore&hide_border=true&theme=github_dark" alt="safetystore"></a>
-  <a href="https://github.com/Tommylegen/Tommylegen.github.io"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=Tommylegen.github.io&hide_border=true&theme=github_dark" alt="github.io"></a>
+  <a href="https://github.com/Tommylegen/safetystore"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=safetystore&hide_border=true&theme=github_dark&bg_color=21262D" alt="safetystore"></a>
+  <a href="https://github.com/Tommylegen/jev-laya-toolkit"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=jev-laya-toolkit&hide_border=true&theme=github_dark&bg_color=21262D" alt="jev-laya-toolkit"></a>
 </p>
 
 <p align="center">
