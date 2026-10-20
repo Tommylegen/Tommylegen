@@ -1,6 +1,10 @@
 <h1 align="center">Tommylegen</h1>
 
 <p align="center">
+  <img src="typing.svg" alt="sometimes happy, sometimes tired, quiet mornings, still figuring it out">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/since-May%202021-0e75b6?style=flat" alt="since May 2021">
   <a href="https://github.com/Tommylegen?tab=followers"><img src="https://img.shields.io/github/followers/Tommylegen?label=followers&style=flat&color=0e75b6&cacheSeconds=86400" alt="followers"></a>
   <a href="https://github.com/Tommylegen?tab=repositories"><img src="https://img.shields.io/github/stars/Tommylegen?affiliations=OWNER&style=flat&color=0e75b6&label=stars&cacheSeconds=86400" alt="stars"></a>
