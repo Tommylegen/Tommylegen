@@ -12,16 +12,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Tommylegen/safetystore"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=safetystore&hide_border=true" alt="safetystore"></a>
-  <a href="https://github.com/Tommylegen/Tommylegen.github.io"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=Tommylegen.github.io&hide_border=true" alt="github.io"></a>
+  <a href="https://github.com/Tommylegen/safetystore"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=safetystore&hide_border=true&theme=github_dark" alt="safetystore"></a>
+  <a href="https://github.com/Tommylegen/Tommylegen.github.io"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=Tommylegen&repo=Tommylegen.github.io&hide_border=true&theme=github_dark" alt="github.io"></a>
 </p>
 
 <p align="center">
-  <img width="460" src="https://streak-stats.demolab.com?user=Tommylegen&hide_border=true" alt="streak">
+  <img width="460" src="https://streak-stats.demolab.com?user=Tommylegen&hide_border=true&theme=github-dark" alt="streak">
 </p>
 
 <p align="center">
-  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommylegen&layout=compact&hide_title=true&hide_border=true" alt="top languages">
+  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tommylegen&layout=compact&hide_title=true&hide_border=true&theme=github_dark" alt="top languages">
 </p>
 
 <p align="center">
@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,node,cloudflare,git,vscode&theme=light" alt="stack">
+  <img src="stack.svg" alt="stack">
 </p>
